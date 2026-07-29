@@ -2,9 +2,9 @@
 
 gdump is massive scan of geometry dash levels
 
-**Total scanned:** 0
+**Total scanned:** 1,764,918
 
-**Exists:** 0
+**Exists:** 779,015
 
 `bitmap.bin` — all scanned levels (including non-existent ones)
 
