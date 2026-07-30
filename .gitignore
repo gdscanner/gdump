@@ -1,0 +1,7 @@
+#Secret file
+gdscan
+*.toml
+test/
+*.db-shm
+*.db-wal
+*.txt
